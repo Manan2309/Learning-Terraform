@@ -1,5 +1,6 @@
+#Using this terraform code you can create an EC2 instance in us-east-1 region. You can also specify the security group and subnet-id according to your needs. This is the basic code. Happy Learning! 
+
 provider "aws" {
-    alias = "us-east-1"
     region = "us-east-1"  # Set your desired AWS region
 }
 
