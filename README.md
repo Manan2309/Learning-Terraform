@@ -1,2 +1,2 @@
 # Learning-Terraform
-This is my repo I created while learning Terraform
+Terraform is an open-source infrastructure as code software tool created by HashiCorp. It enables users to define and provision data center infrastructure using a declarative configuration language. With Terraform, you can easily manage and automate the deployment of cloud resources across various providers, fostering scalability and efficiency in your infrastructure management processes.This is my repository I am creating while learning Terraform.
