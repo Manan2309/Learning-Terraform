@@ -1,0 +1,4 @@
+
+In Terraform, variables serve as a fundamental component for parameterizing and customizing configurations. They provide flexibility and reusability within Terraform code, allowing users to define values that can be easily passed into modules, resources, and other components of their infrastructure definition.
+
+Variables in Terraform are typically declared within a variables block in a Terraform configuration file, usually with a .tf extension. 
